@@ -36,13 +36,13 @@
 ## Installation
 
 ```bash
-$ yarn add react-native-phone-number-input
+$ yarn add rn-phone-no-input
 ```
 
 OR
 
 ```bash
-$ npm i react-native-phone-number-input --save
+$ npm i rn-phone-no-input --save
 ```
 
 ## Features
